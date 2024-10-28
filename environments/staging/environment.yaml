@@ -1,10 +1,10 @@
 version: 1.0
 app:
   maven:
-    groupId: "microwebapp"
-    artifactId: "microwebapp"
+    groupId: "com.ibm.ws.svt.qs"
+    artifactId: "quicksec-jakarta"
     version: "2.0.1"
-    type: war
+    type: ear
   instances:
     min: 1
     max: 2 
