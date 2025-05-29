@@ -20,7 +20,7 @@ app:
   # Liberty encrypted values are supported only if referenced in server.xml
   env:
     - name: something
-      value: "example"
+      value: "example
    
   # version:
   version: "bcb5fdbe-f842-4292-b77e-ee798e26d0f5"
