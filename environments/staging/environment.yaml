@@ -58,5 +58,5 @@ app:
         -----END CERTIFICATE-----
 
   # version:
-  version: "8abbb9b1-b7c3-44a3-a86c-4ec519b4454b"
+  version: "834eb430-e377-48f2-b486-bc4ba7663cc3"
   endpoints: public
