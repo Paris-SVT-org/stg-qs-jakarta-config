@@ -18,6 +18,7 @@ app:
     # ephemeral disk limit will be set to 1GB  
   # List of environment variables that set for the application
   # Liberty encrypted values are supported only if referenced in server.xml
+  java: 17
   env:
     - name: cert_defaultTrustStore
       value: | 
@@ -58,5 +59,5 @@ app:
         -----END CERTIFICATE-----
 
   # version:
-  version: "1844473f-e927-4404-a4e4-87a25ef2e0cd"
+  version: "8abbb9b1-b7c3-44a3-a86c-4ec519b4454b"
   endpoints: public
