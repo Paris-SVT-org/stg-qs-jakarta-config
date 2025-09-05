@@ -1,2 +1,2 @@
 # sample-config
-Using this configuration repo for recovery of namespaces
+This repo is being used for creating short living QuickSec EASeJ instance
