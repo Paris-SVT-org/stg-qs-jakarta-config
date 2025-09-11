@@ -1,6 +1,5 @@
 <server description="QuickSec">
 	<!-- It is ok to use the below LDAP server but make sure to use the correct trust store so that LDAP connection can be on SSL -->
-
 	<!-- Enable features -->
 	<featureManager>
 
